@@ -1,0 +1,59 @@
+/*
+Estilos 
+/* 
+    Created on : 27/04/2018, 01:54:49 PM
+    Author     : Luis Fernando Pinillos Gómez
+*/
+
+/*
+header{
+    background: #2c3e50;
+    color: #fff;
+    position: fixed;
+    top: 0;    
+}
+.main{
+    background: #f2f2f2;
+}
+.color1{
+    background: #34495e;
+    color:#fff;
+}
+aside{
+    background: #c0392b;
+    color: #fff;
+}
+*/
+.jumbotron{
+    background-color: #428BCA;
+    color: #fff;
+    size: 40px;                
+}
+.jumbotron .titulo-blog{
+    font-size: 60px;
+}
+
+#piePagina{
+    font-size: xx-small;
+    border: red 2px solid;
+}
+
+/* POST */
+.main{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.post{
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #999;
+}
+
+.post.thumb{
+    margin-right: 10px;
+    width: 40%;
+}
+
+.post.thumb img{
+    width: 100%;
+}
